@@ -1,8 +1,8 @@
-# Readme
+### Hi there 👋🚀
 
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+- 🇬🇧/🇬🇷/🇧🇷
 - 🌱 I’m currently learning <https://www.progml.com/>
 - 💬 Ask me about **anything**
 - 📫 How to reach me: dimitrymi-at-proton-dot-me
