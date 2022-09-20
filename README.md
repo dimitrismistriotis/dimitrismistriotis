@@ -1,9 +1,9 @@
 ### Hi there 👋🚀
 
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Domitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🇬🇧/🇬🇷/🇧🇷
-- 🌱 I’m currently learning <https://www.progml.com/>
+- 🌱 I’m currently re-learning Terraform - [Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 - 💬 Ask me about **anything**
 - 📫 How to reach me: dimitrymi-at-proton-dot-me
 - ▶️ <https://www.youtube.com/fetareport>
