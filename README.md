@@ -7,6 +7,8 @@
 - 💬 Ask me about **anything**
 - 📫 How to reach me: dimitrymi-at-proton-dot-me
 - ▶️ <https://www.youtube.com/fetareport>
+- 📖 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen
+
 <!--
 **dimitrismistriotis/dimitrismistriotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
