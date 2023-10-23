@@ -2,6 +2,10 @@
 
 [![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+| I am teaching Python through Mentorcruise 🎓🧑‍💻️⌨️                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aiming both to beginners and seasoned developers who want to get to the next level in their learning journey: <https://mentorcruise.com/mentor/dimitriosmistriotis/> |
+
 - 🇬🇧/🇬🇷/🇧🇷
 - 🌱 I’m currently re-learning Terraform - [Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 - 💬 Ask me about **anything**
