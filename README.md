@@ -2,6 +2,8 @@
 
 [![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+Currently open to contract work, please get in touch, CV available here: <https://www.mistriotis.com/documents/Dimitrios_Mistriotis_CV.pdf>
+
 | I am teaching Python through Mentorcruise 🎓🧑‍💻️⌨️                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Aiming both to beginners and seasoned developers who want to get to the next level in their learning journey: <https://mentorcruise.com/mentor/dimitriosmistriotis/> |
