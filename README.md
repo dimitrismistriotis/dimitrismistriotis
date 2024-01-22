@@ -12,7 +12,7 @@ Currently open to contract work, please get in touch, CV available here: <https:
 - 🌱 I’m currently re-learning Terraform - [Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 - 💬 Ask me about **anything**
 - 📫 How to reach me: dimitrymi-at-proton-dot-me
-- ▶️ <https://www.youtube.com/fetareport>
+- ▶️ <https://www.youtube.com/@cyberspectrum_podcast>
 
 Just placed my "Reference" stack to come back as projects evolve
 
