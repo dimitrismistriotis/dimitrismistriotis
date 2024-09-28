@@ -18,7 +18,7 @@ Just placed my "Reference" stack to come back as projects evolve
 
 - 📖 [Server-Driven Web Apps with htmx](https://pragprog.com/titles/mvhtmx/server-driven-web-apps-with-htmx/) by R. Mark Volkmann
 - 📖 [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen
-- [Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
+- 📖 [Terraform: Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 
 ## Skills
 
