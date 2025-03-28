@@ -24,3 +24,8 @@ Just placed my "Reference" stack to come back as projects evolve
 ## Skills
 
 ![Skill Icons](https://skillicons.dev/icons?i=alpinejs,aws,bash,cloudflare,css,django,docker,git,github,githubactions,gitlab,html,htmx,js,linux,mongodb,nginx,pycharm,redis,terraform,vscode)
+
+## Throphies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dimitrismistriotis&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
