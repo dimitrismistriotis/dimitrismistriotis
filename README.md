@@ -11,6 +11,7 @@ Currently open to contract work, please get in touch, CV available here: <https:
 - 🇬🇧/🇬🇷/🇧🇷
 - 💬 Ask me about **anything**
 - 📫 How to reach me: dimitrymi-at-proton-dot-me
+- ▶️ <https://www.youtube.com/@djforge_tech>
 - ▶️ <https://www.youtube.com/@cyberspectrum_podcast>
 - 🕸️ <https://www.mistriotis.com>
 - 📖 <https://www.itarchetypes.com>
