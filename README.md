@@ -4,9 +4,10 @@
 
 Currently open to contract work, please get in touch, CV available here: <https://www.mistriotis.com/documents/Dimitrios_Mistriotis_CV.pdf>
 
-| I am teaching Python through Mentorcruise 🎓🧑‍💻️⌨️                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Aiming both to beginners and seasoned developers who want to get to the next level in their learning journey: <https://mentorcruise.com/mentor/dimitriosmistriotis/> |
+| I am teaching Python through Mentorcruise 🎓🧑‍💻️⌨️                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aiming both to beginners and seasoned developers who want to get to the next level in their learning journey: <https://mentorcruise.com/mentor/dimitriosmistriotis/>         |
+| <a href="https://mentorcruise.com/mentor/dimitriosmistriotis/"><img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise"></a> |
 
 - 🇬🇧/🇬🇷/🇧🇷
 - 💬 Ask me about **anything**
