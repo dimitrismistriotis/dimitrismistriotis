@@ -1,6 +1,6 @@
 ### Hi there 👋🚀
 
-[![Dimitrios' GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrismistriotis&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Dimitrios's GitHub stats](https://github-stats-extended.vercel.app/api?username=dimitrismistriotis)](https://github.com/stats-organization/github-stats-extended)
 
 - 🇬🇧/🇬🇷/🇧🇷
 - 💬 Ask me about **anything**
