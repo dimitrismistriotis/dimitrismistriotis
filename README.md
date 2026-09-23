@@ -10,10 +10,6 @@
 - 🕸️ <https://www.mistriotis.com>
 - 📖 <https://www.itarchetypes.com>
 
-## Other Statistics
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dimitrismistriotis&layout=compact&langs_count=5&hide_values=true&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=dimitrismistriotis&layout=compact&langs_count=5&hide_values=true&theme=synthwave)
-
 ## Skills
 
 ![Skill Icons](https://skillicons.dev/icons?i=arch,alpinejs,aws,bash,cloudflare,css,django,docker,git,github,githubactions,gitlab,html,htmx,js,linux,mongodb,nginx,pycharm,redis,rust,tailwind,terraform,vscode)
