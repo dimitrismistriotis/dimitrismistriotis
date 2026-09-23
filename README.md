@@ -1,6 +1,6 @@
 ### Hi there 👋🚀
 
-[![Dimitrios's GitHub stats](https://github-stats-extended.vercel.app/api?username=dimitrismistriotis)](https://github.com/stats-organization/github-stats-extended)
+[![Dimitrios's GitHub stats](https://github-stats-extended.vercel.app/api?username=dimitrismistriotis&theme=synthwave)](https://github.com/stats-organization/github-stats-extended)
 
 - 🇬🇧/🇬🇷/🇧🇷
 - 💬 Ask me about **anything**
@@ -9,6 +9,10 @@
 - ▶️ <https://www.youtube.com/@cyberspectrum_podcast>
 - 🕸️ <https://www.mistriotis.com>
 - 📖 <https://www.itarchetypes.com>
+
+## Other Statistics
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dimitrismistriotis&layout=compact&langs_count=5&hide_values=true&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=dimitrismistriotis&layout=compact&langs_count=5&hide_values=true&theme=synthwave)
 
 ## Skills
 
